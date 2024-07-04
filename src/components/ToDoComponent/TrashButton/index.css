@@ -1,0 +1,17 @@
+.trash p {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #353535;
+    margin-left: 12px;
+}
+
+.trash {
+    border-radius: 12px;
+    padding: 12px 4px 12px 4px;
+    background-color: #E4E6E7;
+    width: 240px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}

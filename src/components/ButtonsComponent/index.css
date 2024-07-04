@@ -1,0 +1,14 @@
+.to-do-buttons {
+    width: 289px;
+    height: 40px;
+    gap: 16px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-buttons {
+    margin-top: 176px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

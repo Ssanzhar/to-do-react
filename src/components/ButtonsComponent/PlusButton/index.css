@@ -1,0 +1,15 @@
+.plus {
+    width: 52px;
+    height: 52px;
+    border-radius: 100px;
+    padding: 14px;
+    gap: 8px;
+    background-color: #081E34;
+    border: none;
+    cursor: pointer;
+}
+
+.plus img {
+    width: 24px;
+    height: 24px;
+}
